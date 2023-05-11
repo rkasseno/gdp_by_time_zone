@@ -6,5 +6,16 @@ Since I was working in a company making Data Analysis and Visualization for fore
 As a result, I decided to collect GDP data of as many countries as possible *(even small islands)* and separate it by every possible time zone we have on the planet Earth and visualize it for my company to make efficient decisions. 
 
 😉 Thereby, you can also use this dashboard built in [Looker Studio](https://lookerstudio.google.com) for making better decisions or just for having fun my friends! 😉
-
+***
 [Click me to see the Interactive Dashboard itself](https://lookerstudio.google.com/reporting/d55e8bb9-36f6-419f-903c-74877815370c/page/5YgID)
+
+## Findings and Lessons Learned
+
+* China, having the second GDP in the world, has only two time zones. This makes it really easy to work with different parts of the country.
+
+    ~ *It also makes the **UTC +08:00** time zone the richest among the others.*
+
+* The GDP of California State is almost equal to that of The United Kingdom.
+* In term of GDP, **UTC -05:00** approximately equals to **UTC -07:00**, **UTC +02:00**, **UTC +03:00**, **UTC -08:00**, **UTC -07:00** and **UTC +-00:00** all together.
+
+We are still testing our hypothesis and are in the way to obtain as many insights as we can. However, due to the visualized data it has become much easier to take actions 😀
