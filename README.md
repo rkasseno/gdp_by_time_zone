@@ -5,4 +5,6 @@ Since I was working in a company making Data Analysis and Visualization for fore
 
 As a result, I decided to collect GDP data of as many countries as possible *(even small islands)* and separate it by every possible time zone we have on the planet Earth and visualize it for my company to make efficient decisions. 
 
-😉 Thereby, you can also use this dashboard for making better decisions or just for having fun my friends! 😉
+😉 Thereby, you can also use this dashboard built in [Looker Studio](https://lookerstudio.google.com) for making better decisions or just for having fun my friends! 😉
+
+[Click me to see the Interactive Dashboard itself](https://lookerstudio.google.com/reporting/d55e8bb9-36f6-419f-903c-74877815370c/page/5YgID)
