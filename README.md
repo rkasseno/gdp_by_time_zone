@@ -1,5 +1,5 @@
 # GDP by World Time Zones
-I was once wondering: "How many Time Zones are there in the world?". I was incredibly surprised by finding out that the total number of all time zones in relation to UTC equals to **42.
+I was once wondering: "How many Time Zones are there in the world?". I was incredibly surprised by finding out that the total number of all time zones in relation to UTC equals to **42**.
 
 Since I was working in a company making Data Analysis and Visualization for foreign entities, we always had to manage time differences which often led to huge overwork. Thus, I wanted to optimize our time by focusing on the time zones with higher GDP. My hypothesis was, if we dedicate more effort to the parts of the world with greater Gross Domestic Product, the 'Earning to time spent' ratio of our company would be much larger. 
 
