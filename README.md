@@ -24,3 +24,19 @@ We are still testing our hypothesis and are in the way to obtain as many insight
 ## Data Table
 The data is aggrerated in Google Sheets. Through the link below you will be able to see all sheets that I used; however the main table containing the final data is called 'Main Table'.
 [Click to see the data](https://docs.google.com/spreadsheets/d/1N1wZyRbYy6RlPLx2-j6aGUNINF2lyR-sVJGI2Hfcs6s/edit?usp=sharing)
+
+## Functions & Formulas Used for Data Processing
+* **=XLOOKUP()**
+*   _~ Example: **=XLOOKUP(Q246,'GDP Per Capita Russian Regions'!B:B,'GDP Per Capita Russian Regions'!C:C)_**
+* **=FILTER()**
+*   _~ Example: **=FILTER('GDP (Nominal)'!D:D,B176='GDP (Nominal)'!B:B)**_
+* **=SPLIT()**
+    _~ Example: **=SPLIT(A76,",")**_
+* **=IF()**
+    _~ Example: **=IF(AND(T194>0,T194<>"n/a"),2023,"")**_
+* **=LEFT()** & **=FIND()**
+    _~ Example: **=LEFT(Q15,FIND("(",Q15)-1)**_
+* **=CONCATENATE()**
+    _~ Example: **=CONCATENATE(C17:N17)**_
+* **=JOIN()** & **FILTER()**
+    _~ Example: **=JOIN(", ",FILTER(C60:N60,C60:N60<>""))**_
