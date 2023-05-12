@@ -47,3 +47,9 @@ _=CONCATENATE(C17:N17)_
 * **=JOIN()** & **FILTER()**
 
 _=JOIN(", ",FILTER(C60:N60,C60:N60<>""))_
+
+## Documentation
+[Google Sheets](https://developers.google.com/sheets) <br />
+[Google Sheets function list](https://support.google.com/docs/table/25273?hl=en) <br />
+[Looker Studio](https://cloud.google.com/looker/docs)
+[Looker Studio Tutotial](https://support.google.com/looker-studio/answer/6292570?hl=en#zippy=%2Cin-this-article)
