@@ -27,16 +27,23 @@ The data is aggrerated in Google Sheets. Through the link below you will be able
 
 ## Functions & Formulas Used for Data Processing
 * **=XLOOKUP()** 
+
 _=XLOOKUP(Q246,'GDP Per Capita Russian Regions'!B:B,'GDP Per Capita Russian Regions'!C:C)_
 * **=FILTER()**
+
 _=FILTER('GDP (Nominal)'!D:D,B176='GDP (Nominal)'!B:B)_
 * **=SPLIT()**
+
 _=SPLIT(A76,",")_
 * **=IF()**
+
 _=IF(AND(T194>0,T194<>"n/a"),2023,"")_
 * **=LEFT()** & **=FIND()**
+
 _=LEFT(Q15,FIND("(",Q15)-1)_
 * **=CONCATENATE()**
+
 _=CONCATENATE(C17:N17)_
 * **=JOIN()** & **FILTER()**
+
 _=JOIN(", ",FILTER(C60:N60,C60:N60<>""))_
