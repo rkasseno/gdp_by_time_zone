@@ -7,7 +7,7 @@ As a result, I decided to collect GDP data of as many countries as possible *(ev
 
 😉 Thereby, you can also use this dashboard built in [Looker Studio](https://lookerstudio.google.com) for making better decisions or just for having fun my friends! 😉
 ***
-[Click me to see the Interactive Dashboard itself](https://lookerstudio.google.com/reporting/d55e8bb9-36f6-419f-903c-74877815370c/page/5YgID)
+[Click me to see the project](https://lookerstudio.google.com/reporting/d55e8bb9-36f6-419f-903c-74877815370c/page/5YgID)
 ***
 
 ## Findings and Lessons Learned
@@ -20,3 +20,7 @@ As a result, I decided to collect GDP data of as many countries as possible *(ev
 * In term of GDP, **UTC -05:00** approximately equals to **UTC -07:00**, **UTC +02:00**, **UTC +03:00**, **UTC -08:00**, **UTC -07:00** and **UTC +-00:00** all together.
 
 We are still testing our hypothesis and are in the way to obtain as many insights as we can. However, due to the visualized data it has become much easier to take actions 😀
+
+## Data Table
+The data is aggrerated in Google Sheets. Through the link below you will be able to see all sheets that I used; however the main table containing the final data is called 'Main Table'.
+[Click to see the data](https://docs.google.com/spreadsheets/d/1N1wZyRbYy6RlPLx2-j6aGUNINF2lyR-sVJGI2Hfcs6s/edit?usp=sharing)
